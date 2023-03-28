@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishesharya2023" target="blank"><img src="https://img.shields.io/twitter/follow/vishesharya2023?logo=twitter&style=for-the-badge" alt="vishesharya2023" /></a> </p>
 
-<img align="right" style="width: 500px; height: 500px; max-width: 100%; display: inline-block;" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w750" data-target="animated-image.originalImage">
+<img align="right" style="width: 400px; height: 400px; max-width: 100%; display: inline-block;" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w750" data-target="animated-image.originalImage">
 
 - 🌱 I’m currently learning **MAREN stack-Web development**
 
