@@ -1,24 +1,8 @@
 ### Hi there 👋
-![Thanks for VISIT my](https://user-images.githubusercontent.com/86530783/228192003-ef0b98a8-38fb-40b7-b5a2-03e2a307fc4b.gif)
+
 
 <h1 align="center">Hi 👋, I'm Vishesh Arya</h1>
-<h3 align="center">A passionate Full-Stack Developer & Android Development</h3>
-
-<p align="left"> <a href="https://twitter.com/vishesharya2023" target="blank"><img src="https://img.shields.io/twitter/follow/vishesharya2023?logo=twitter&style=for-the-badge" alt="vishesharya2023" /></a> </p>
-
-<img align="right" style="width: 350px; height: 350px; max-width: 100%; display: inline-block;" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w750" data-target="animated-image.originalImage">
-
-- 🌱 I’m currently learning **MAREN stack-Web development**
-
-- 👯 I’m looking to collaborate on [Team-Work](https://github.com/vishesharya/Dot_batch_TeamWork)
-
-- 💬 Ask me about **DSA, Front-end development.**
-
-- 📫 How to reach me **apke000@gmail.com**
-
-- ⚡ Fun fact **A fast learner**
-
-
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
