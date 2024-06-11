@@ -34,5 +34,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishesharya&icon=7&color=12)](https://visitcount.itsvg.in)
 
